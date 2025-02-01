@@ -69,19 +69,6 @@
 
 ---
 
-**Requirements**
- 
-pdfplumber==0.10.0
-pillow==10.3.0
-langchain-google-genai==0.1.4
-langchain==0.2.1
-moviepy==1.0.3
-requests==2.32.3
-srt==3.5.3
-elevenlabs==0.2.21
-python-pptx
-wordcloud
-
 ## 📄 License  
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.  
 

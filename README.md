@@ -51,7 +51,7 @@
 2. **Choose the desired output**
 3. **Get outputs**:  
    - Audio
-   - Video
+   - Video/Reels
    - PPT
    - Blog
    - Graphics 

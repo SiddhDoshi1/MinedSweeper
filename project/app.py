@@ -28,7 +28,7 @@ def upload_file():
         file.save(file_path)
 
         # Get the selected languages from the form data
-        languages = request.form.getlist('language')
+        languages = request.form.getlist('languages')
 
         # Run the Python script with the saved file and selected languages
         try:
